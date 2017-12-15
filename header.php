@@ -16,7 +16,7 @@ echo "session";
 print_r($_SESSION);
 
  echo "<title>$appname$userstr</title><link rel='stylesheet'" .
- "href='styles.css' type='text/css'>" .
+ "href='style.css' type='text/css'>" .
  "</head><body><center><canvas id='logo' width='624' " .
  "height='96'>$appname</canvas></center>" .
  "<div class='appname'>$appname$userstr</div>" .
